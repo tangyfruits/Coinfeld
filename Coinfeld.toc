@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: Coinfeld
+## Notes: "Looking at cleavage is like looking at the sun. You don't stare at it. It's too risky. Ya get a sense of it and then you look away."
+## Version: 0.1A
+
+Coinfeld.lua
